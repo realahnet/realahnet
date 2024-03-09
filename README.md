@@ -18,7 +18,7 @@
 ---
 
 #### 🤔 About Me 🤔
-- A 16 year old "maintainer" from Pakistan.
+- A "maintainer" from Pakistan.
 - I mostly do android building.
 
 #### 📱Owned Devices📱
