@@ -18,7 +18,7 @@
 ---
 
 #### 🤔 About Me 🤔
-- A "maintainer" from Pakistan.
+- I am a "maintainer" from Pakistan.
 - I mostly do android building.
 
 #### 📱Owned Devices📱
@@ -31,4 +31,4 @@
 
 ---
 
-You can contact me at telegram on **[@ahnet_h](https://t.me/ahnet_h)** or **[@ahnet_sh](https://t.me/ahnet_sh)** or on **[Discord](discord.com/users/635483684719558666)**.
+You can contact me at telegram on **[@ahnet_h](https://t.me/ahnet_h)** or **[@ahnet_sh](https://t.me/ahnet_sh)** or on **[Discord](https://discord.com/users/635483684719558666)**.
