@@ -30,7 +30,7 @@
 
 #### 🤝 Maintainership 🤝
 - I am currently an official maintainer for pdx206 of Project-Elixir.
-- I maintain unofficial Evolution-X GSI and rom for pdx206.
+- I maintain unofficial Evolution-X GSI and unofficial VoltageOS for pdx206.
 
 ---
 
