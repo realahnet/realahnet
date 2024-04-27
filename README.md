@@ -29,9 +29,10 @@
 - Galaxy Tab 3 Lite (goyavewifi)
 
 #### 🤝 Maintainership 🤝
-- I am currently an official maintainer for pdx206 of Project-Elixir.
-- I maintain unofficial Evolution-X GSI and unofficial VoltageOS for pdx206.
-
+I currently maintain the following projects:
+- Official Project Elixir for pdx206.
+- Official Project Elixir GSI with **[UniversalX](https://github.com/orgs/UniversalX-devs/repositories)**.
+- Unofficial VoltageOS for pdx206
 ---
 
 You can contact me at telegram on **[@ahnet_h](https://t.me/ahnet_h)** or **[@ahnet_sh](https://t.me/ahnet_sh)** or on **[Discord](https://discord.com/users/635483684719558666)**.
