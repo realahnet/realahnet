@@ -30,9 +30,8 @@
 
 #### 🤝 Maintainership 🤝
 I currently maintain the following projects:
-- Official Project Elixir for pdx206.
-- Official Project Elixir GSI with **[UniversalX](https://github.com/orgs/UniversalX-devs/repositories)**.
-- Unofficial VoltageOS for pdx206
+- UnOfficial PenguinOS for pdx203 and pdx206.
+- UnOfficial crDroid for pdx203 and pdx206.
 ---
 
 You can contact me at telegram on **[@ahnet_h](https://t.me/ahnet_h)** or **[@ahnet_sh](https://t.me/ahnet_sh)** or on **[Discord](https://discord.com/users/635483684719558666)**.
