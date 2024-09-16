@@ -30,7 +30,7 @@
 
 #### 🤝 Maintainership 🤝
 I currently maintain the following projects:
-- UnOfficial PenguinOS for pdx203 and pdx206.
+- UnOfficial AOSPA for pdx203 and pdx206.
 - UnOfficial crDroid for pdx203 and pdx206.
 ---
 
