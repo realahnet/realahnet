@@ -21,8 +21,8 @@
 ---
 
 #### 🤔 About Me 🤔
-- I am a "maintainer" from Pakistan.
-- I mostly do android building.
+- I am a android "maintainer" from Pakistan.
+- My projects are mostly compiling custom roms for phones to extend their lifetime while also diving into other opensource projects.
 
 #### 📱Owned Devices📱
 - Sony Xperia 5 II (pdx206)
@@ -30,7 +30,7 @@
 
 #### 🤝 Maintainership 🤝
 I currently maintain the following projects:
-- UnOfficial YAAP for pdx203 and pdx206.
+- UnOfficial YAAP (ROM) for pdx203 and pdx206.
 ---
 
 You can contact me at telegram on **[@ahnet_h](https://t.me/ahnet_h)** or **[@ahnet_sh](https://t.me/ahnet_sh)** or on **[Discord](https://discord.com/users/635483684719558666)**.
