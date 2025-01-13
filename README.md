@@ -21,8 +21,8 @@
 ---
 
 #### 🤔 About Me 🤔
-- I am a android "maintainer" from Pakistan.
-- My projects are mostly compiling custom roms for phones to extend their lifetime while also diving into other opensource projects.
+- I am an Android **maintainer** from Pakistan.
+- My projects mostly involve compiling custom ROMs for phones to extend their lifespan while also exploring other open-source projects.
 
 #### 📱Owned Devices📱
 - Sony Xperia 5 II (pdx206)
