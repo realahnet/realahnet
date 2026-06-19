@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/57623523?v=4" width="100"/>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/57623523?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"/>
   <h3>:wave: Hello! I am Ahnet</h3>
 </div>
 
