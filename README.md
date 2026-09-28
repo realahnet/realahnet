@@ -21,7 +21,7 @@
 ---
 
 #### 🤔 About Me 🤔
-- I am an Android **maintainer** from Pakistan.
+- I am an Android **maintainer** and a student at FAST NUCES in BS(AI).
 - My projects mostly involve compiling custom ROMs for phones to extend their lifespan while also exploring other open-source projects.
 
 #### 📱Owned Devices📱
